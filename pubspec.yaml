@@ -54,6 +54,8 @@ dependencies:
   timeago: ^3.6.1
   flutter_slidable: ^3.0.1
 
+  collection: any
+  html: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
